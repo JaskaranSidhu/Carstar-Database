@@ -1,4 +1,4 @@
-# CPSC-471-Database-Project
+# Database Management System
 
 * Project for CPSC 471 Database Management Systems. 
 * Objective was to create a database to solve the real world problem of tracking information for a body shop, CARSTAR Okotoks, that tracks information about each vehicle, customer, insurance company, and employee in a more efficient manner.  
